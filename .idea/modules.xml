@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MicroService_Eureka.iml" filepath="$PROJECT_DIR$/MicroService_Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MCS/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/../MCS/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/gateway/gateway.iml" filepath="$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/../Architectures-Micro-service-avec-Spring-cloud/inventory-service/inventory-service.iml" />
+    </modules>
+  </component>
+</project>
